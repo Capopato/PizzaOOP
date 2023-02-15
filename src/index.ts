@@ -23,7 +23,6 @@ customer2.chooseToppings({ tomatoSauce: "yes", cheese: "yes", mozzarella: "yes",
 customer2.choosePizza({ choice: "Calzone" });
 customer2.calculatePrice();
 console.log(customer2);
-
 //Prints out: 
 /**
  * Customer {
